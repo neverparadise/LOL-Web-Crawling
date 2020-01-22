@@ -1,4 +1,4 @@
-#201610933 김국진 Web/Python Term Project
+#Web/Python Term Project
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
